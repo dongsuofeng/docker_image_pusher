@@ -1,1 +1,2 @@
 directus/directus:11.1.0
+cloudeon:v1.3.0
