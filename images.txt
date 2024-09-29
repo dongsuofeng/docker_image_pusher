@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/udh/cloudeon:v1.3.0
+mysql:latest
