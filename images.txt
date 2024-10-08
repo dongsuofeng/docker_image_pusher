@@ -1,1 +1,2 @@
-mysql:latest
+docker.io/hybridnetdev/hybridnet:v0.8.6
+docker.io/plndr/kube-vip:v0.7.2
