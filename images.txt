@@ -1,2 +1,1 @@
-influxdb:latest
-nginx:latest
+ingress-nginx/controller:v1.11.3
